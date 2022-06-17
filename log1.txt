@@ -1,0 +1,13 @@
+PLAYER 0 has TIMED OUT
+Time : 1721 ms players are playing again 
+
+
+
+Time: 160ms Player 0 played 0 0
+Time: 743ms Player 1 played 0 1
+Time: 1430ms Player 0 played 2 0
+Time: 2102ms Player 1 played 0 2
+Time: 2334ms Player 0 played 2 2
+Time: 3420ms Player 1 played 1 2
+Time: 3882ms Player 0 played 1 1
+Time: 3991ms Player 0 won
